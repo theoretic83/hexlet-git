@@ -1,1 +1,1 @@
-"Hexlet, привет!" 
+'Hello, Hexlet! How are you?' 
